@@ -1,7 +1,7 @@
 ### Hi there 👋 I am a Data Scientist and Machine Learning Engineer based in Poland
 
 - 🔭 I’m currently working on an AI to fight water pollution and floods in Northern America
-- 👯 I'm an active member and global ambassador of WomenTech network, Women in AI and International Society for Data Science and Analytics (ISDSA)
+- 👯 I'm an active member and global ambassador of WomenTech network, Women in AI member and International Society for Data Science and Analytics member (ISDSA)
 - 👯 I’m looking to collaborate on AI for Good projects (especially climate change counteraction)
 - 💬 Ask me about our local chapter of Women in Machine Learning & Data Science in Poland!
 
