@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am a Data Scientist and Machine Learning Engineer based in Poland
 
-- 🔭 I’m currently working on an AI to fight water pollution and floods by predicting sewer overflow events for smart cities’ waste disposal infrastructure in Northern America
+- 🔭 I’m currently working on an AI to fight water pollution and floods in Northern America
 - 👯 I'm an active member and global ambassador of WomenTech network, Women in AI and International Society for Data Science and Analytics (ISDSA)
 - 👯 I’m looking to collaborate on AI for Good projects
 - 💬 Ask me about our local chapter of Women in Machine Learning & Data Science in Poland!
