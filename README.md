@@ -9,7 +9,6 @@
 Some of my previous after-work projects:
 - 🔭 [AI to detect plastic waste](https://towardsdatascience.com/ai-to-combat-environmental-pollution-6d58b0bf6a1) in the environment in order to combat environmental pollution and promote a circular economy 
 - 🔭 Environmental awareness project where AI, acoustics and ornithology were used to [classify birds](https://towardsdatascience.com/sound-based-bird-classification-965d0ecacb2b) in the environment
-- 🔭 Analysing the importance of [sex education](https://medium.com/omdena/improving-sex-education-by-exploring-sexually-related-discussions-using-nlp-780a8e09d338) with NLP in Poland
 - 🔭 [COVID-19 By Country](https://github.com/m-kortas/AI-playground/blob/main/machine%20learning/CovidImpactByCountry.ipynb) - the influence of lockdowns, vaccinations and Human Development Index
 - 🔭 [Comparing and contrasting cultures](https://github.com/m-kortas/AI-playground/blob/main/machine%20learning/Hofstede_dim_clustering.ipynb) of different countries based on six anthropological areas that define societies
 
