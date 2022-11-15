@@ -1,6 +1,6 @@
-### Hi there 👋 I am a Data Scientist and Machine Learning Engineer based in Poland
+### Hi there 👋 I am a Data Scientist and Machine Learning Engineer 
 
-- 🔭 I’m currently working on an AI to fight water pollution and floods in Northern America at [Carl Data Solutions](https://www.carlsolutions.com/) 
+- 🔭 I’m currently working on an AI to fight water pollution and floods in Northern America at [Infinitii AI](https://www.infinitii.ai/) 
 - 💬 Ask me about our local chapter of [Women in Machine Learning & Data Science ](https://www.linkedin.com/company/women-in-machine-learning-data-science-poland/)
  (WiMLDS) in Poland which I co-founded.
 - 👯 I'm an active member and global ambassador of [WomenTech network](https://www.womentech.net/), member of [Women in AI](https://www.womeninai.co/) (WAI) and a member of [The International Society for Data Science and Analytics](https://isdsa.org/) (ISDSA)
