@@ -11,5 +11,3 @@ Some of my previous after-work projects:
 - 🔭 Environmental awareness project where AI, acoustics and ornithology were used to [classify birds](https://towardsdatascience.com/sound-based-bird-classification-965d0ecacb2b) in the environment
 - 🔭 [COVID-19 By Country](https://github.com/m-kortas/AI-playground/blob/main/machine%20learning/CovidImpactByCountry.ipynb) - the influence of lockdowns, vaccinations and Human Development Index
 - 🔭 [Comparing and contrasting cultures](https://github.com/m-kortas/AI-playground/blob/main/machine%20learning/Hofstede_dim_clustering.ipynb) of different countries based on six anthropological areas that define societies
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-kortas&hide=contribs,prs,issues&count_private=true&theme=vue-dark)      
