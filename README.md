@@ -1,6 +1,5 @@
 ### Hi there 👋 I am a passionate Data Scientist 
 
-- 🔭 I’m currently working on an AI to fight water pollution and floods in Northern America at [Infinitii AI](https://www.infinitii.ai/) 
 - 💬 Ask me about our local chapter of [Women in Machine Learning & Data Science ](https://www.linkedin.com/company/women-in-machine-learning-data-science-poland/)
  (WiMLDS) which I co-founded.
 - 👯 I'm an active member and global ambassador of [WomenTech network](https://www.womentech.net/), member of [Women in AI](https://www.womeninai.co/) (WAI) and a member of [The International Society for Data Science and Analytics](https://isdsa.org/) (ISDSA)
