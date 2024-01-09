@@ -1,4 +1,4 @@
-### Hi there 👋 I am a passionate Data Scientist 
+### Hi there 👋 I am a passionate Data Scientist based in Sydney, Australia
 
 - 💬 Ask me about our local chapter of [Women in Machine Learning & Data Science ](https://www.linkedin.com/company/women-in-machine-learning-data-science-poland/)
  (WiMLDS) which I co-founded.
